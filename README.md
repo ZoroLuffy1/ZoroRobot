@@ -62,3 +62,8 @@ We did not run this bot or this repo to feed every entititled user who demands o
 ## Credits 📍
 * Well, it's all in the commit history
 Feel free to open pull requests should any be missing.
+
+## Deploy to Heruko 
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/ZoroLuffy1/EST_Robot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-purple&light?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/ZoroLuffy1/EST_Robot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-purple&light?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
